@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-🙋♀️ Introductions - 
+🙋 Introductions - 
 My name is Matt. Connect with me at [LinkedIn](https://linkedin.com/in/matt-atadataco).
 
 I founded Atalert to help companies manage the amount of information moving between teams.
